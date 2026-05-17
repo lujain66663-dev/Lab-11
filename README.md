@@ -1,1 +1,2 @@
 # Lab-11
+This project applies Customer Segmentation using Machine Learning techniques on credit card customer data. The project includes data preprocessing, handling missing values, data visualization, feature scaling, and K-Means clustering to group customers based on their spending behavior. Different visualizations and clustering evaluation methods such as the elbow method and silhouette score were used to analyze the results.
